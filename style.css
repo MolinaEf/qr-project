@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    margin:0;
+    padding:0
 }
 
 html, body {
@@ -9,14 +11,13 @@ html, body {
 body{
     background-color: hsl(212, 45%, 89%);
     font-family: Outfit;
-    margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.big-container{
+.qr-card{
     border-radius: 20px;
     height: 470px;
     width: 310px;
@@ -46,7 +47,6 @@ h1{
 p{
     font-size: 15px;
     color: hsl(216, 15%, 48%);
-    margin-top: 15px;
     text-align: center;
     padding: 5px 25px 5px 25px;
     font-weight: 400;
