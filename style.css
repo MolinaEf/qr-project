@@ -19,7 +19,7 @@ body{
 
 .qr-card{
     border-radius: 20px;
-    height: 470px;
+    height: 500px;
     width: 310px;
     background-color: hsl(0, 0%, 100%);
     display: flex;
